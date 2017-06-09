@@ -14,4 +14,8 @@ namespace App1
             InitializeComponent();
         }
     }
+    public abstract class IAmHere
+    {
+
+    }
 }
